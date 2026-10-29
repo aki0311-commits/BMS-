@@ -6,10 +6,11 @@ beatoraja向けに、譜面の所持判定・自動ダウンロード・適切�
 「元曲はあるけれど差分がない」「差分だけ取得できて元曲がない」といった状態を確認し、不足するデータの取得・補完・整理を進められます。
 
 > **最新版：v3.3.5**  
-> **[v3.3.5をダウンロード（Windows用ZIP）](https://github.com/aki0311-commits/BMS-/releases/download/v1.0.0/BeatorajaMissingChartFetcher-v3.3.5.zip)**  
+> **[v3.3.5をダウンロード（Windows用ZIP）](https://github.com/aki0311-commits/BMS-/releases/download/v1.0.0/BeatorajaMissingChartFetcher-v3.3.5-win64.zip)**  
+> [SHA-256確認用ファイル](https://github.com/aki0311-commits/BMS-/releases/download/v1.0.0/SHA256SUMS-v3.3.5-win64.txt)  
 > [リリース詳細・過去の配布ファイル](https://github.com/aki0311-commits/BMS-/releases/tag/v1.0.0)
 >
-> ReleasesのAssetsから、**BeatorajaMissingChartFetcher-v3.3.5.zip**を選んでください。リリースタグが `v1.0.0` の場合も、配布ファイル名のバージョンを確認してください。`Source code (zip)` は実行用の配布物ではありません。
+> ReleasesのAssetsから、**BeatorajaMissingChartFetcher-v3.3.5-win64.zip**を選んでください。リリースタグが `v1.0.0` の場合も、配布ファイル名のバージョンを確認してください。`Source code (zip)` は実行用の配布物ではありません。
 
 [主な機能](#主な機能) · [初めての導入](#初めての導入) · [更新方法](#更新方法) · [手動導入と整理](#手動導入と整理) · [更新履歴](#バージョン別の主な更新内容) · [既知の問題](#既知の問題注意事項)
 
